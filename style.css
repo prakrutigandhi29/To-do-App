@@ -1,0 +1,20 @@
+body{
+    margin:0;
+}
+#task-err{
+    color:red;
+}
+#my-form{
+    margin:auto;
+    text-align:center;
+    padding-bottom:50px;
+}
+#tasks-list{
+    margin:auto;
+}
+#tasks-list tr th,td{
+    padding:5px;
+}
+h1{
+    text-align: center;
+}
